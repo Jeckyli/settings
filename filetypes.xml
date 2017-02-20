@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="prpoerties" type="PLAIN_TEXT" />
-      <mapping ext="scala" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
