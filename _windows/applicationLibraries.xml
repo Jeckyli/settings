@@ -42,6 +42,7 @@
     </library>
     <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
+        <option name="languageLevel" value="Scala_2_10" />
         <compiler-classpath>
           <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar" />
           <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar" />
